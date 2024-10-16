@@ -1,0 +1,28 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #0b192c;
+}
+body {
+  background-color: #ff6500;
+}
+section .putih {
+  /* padding-top: 1rem; */
+  color: aliceblue;
+}
+section .hitam {
+  padding-top: 1rem;
+  color: black;
+}
+section .job {
+  color: aliceblue;
+}
+#projects {
+  background-color: #0b192c;
+}
+.row {
+  padding-top: 1rem;
+  /* padding-bottom: 2rem; */
+}
+section {
+  padding-top: 3rem;
+}
